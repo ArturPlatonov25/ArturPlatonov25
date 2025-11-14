@@ -72,8 +72,8 @@ Master's degree, **Digital Business & IT Management**, 09/2021 - 09/2024
 Bachelor's degree, **Computer Systems in Transport & Logistics**, 09/2016 - 06/2021
 
 ## SUMMARY
-Java backend developer with 5+ years of experience focused on building reliable and scalable data processing systems.
-I enjoy optimizing data flows, designing flexible architectures, and solving complex engineering challenges. I thrive in
-collaborative environments, communicate clearly across teams, and take ownership of results. I have a great experience
-designing and implementing scalable microservices, real-time data pipelines (Kafka) and cloud-native systems using Java
-and Spring Boot. Skilled in ClickHouse, PostgreSQL. Open to relocation and growth opportunities.
+**Java backend** developer with **5+ years of experience** focused on building **reliable** and **scalable** data processing systems.
+I enjoy optimizing **data flows**, designing **flexible architectures**, and solving complex engineering challenges. I thrive in
+**collaborative environments**, communicate clearly across teams, and take ownership of results. I have a great experience
+designing and implementing scalable **microservices**, real-time data pipelines **(Kafka)** and **cloud-native systems** using **Java**
+and **Spring Boot**. Skilled in **ClickHouse**, **PostgreSQL**. Open to **relocation** and **growth** opportunities.
