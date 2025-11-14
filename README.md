@@ -76,4 +76,4 @@ Bachelor's degree, **Computer Systems in Transport & Logistics**, 09/2016 - 06/2
 I enjoy optimizing **data flows**, designing **flexible architectures**, and solving complex engineering challenges. I thrive in
 **collaborative environments**, communicate clearly across teams, and take ownership of results. I have a great experience
 designing and implementing scalable **microservices**, real-time data pipelines **(Kafka)** and **cloud-native systems** using **Java**
-and **Spring Boot**. Skilled in **ClickHouse**, **PostgreSQL**. Open to **relocation** and **growth** opportunities.
+and **Spring Boot**. Skilled in **ClickHouse**, **PostgreSQL**. I also have **mentoring** experience. Open to **relocation** and **growth** opportunities.
